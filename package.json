@@ -14,7 +14,6 @@
   },
   "main": "./namecheap.js",
   "dependencies": {
-    "bluebird":"3.5.0",
   	"request": "2.81.0",
     "request-promise": "4.2.1",
   	"xmlparser": "0.1.0"
